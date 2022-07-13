@@ -6,6 +6,10 @@ authors = ["mitches-got-glitches <mitch.edmunds@proton.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.78.0"
+pydantic = "^1.9.1"
+uvicorn = "^0.18.2"
+watchfiles = "^0.15.0"
 
 [tool.poetry.dev-dependencies]
 
